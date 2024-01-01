@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 - New Material UI apparently
 - Updated comments look
 - Fixed tribes alignment
+- Added "forgot password" field to auth page
+- Fixed card size/scrolling
 
 ## 0.2.8
 - Adjusted widget sizing for images

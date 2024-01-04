@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 0.2.10
 - Allowed user to upload images in messages/started working on themes
 - Made user drawer scrollable as one unit
+- Fixed app icon and splash screen
 
 ## 0.2.9
 - New Material UI apparently

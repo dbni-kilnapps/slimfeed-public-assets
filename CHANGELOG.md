@@ -6,6 +6,9 @@ All notable changes to this project will be documented in this file.
 - Allowed user to upload images in messages/started working on themes
 - Made user drawer scrollable as one unit
 - Fixed app icon and splash screen
+- Fixed option tiles
+- Fixed "Activity" screen
+- Fixed tribes not loading posts
 
 ## 0.2.9
 - New Material UI apparently

@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - Fixed "Activity" screen
 - Fixed tribes not loading posts
 - Added navigation bars to landscape view
+- Fixed FloatingActionButton position
 
 ## 0.2.9
 - New Material UI apparently

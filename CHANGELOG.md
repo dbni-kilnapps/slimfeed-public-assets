@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 0.2.12
 - Added clickable tribes chips to post cards
+- Fixed title and description spacing
 
 ## 0.2.11
 - Fixed minor issues

@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.2.12
+- Added clickable tribes chips to post cards
+
 ## 0.2.11
 - Fixed minor issues
 - Added conversation naming

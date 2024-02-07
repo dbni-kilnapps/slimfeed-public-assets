@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.2.14
+- Added minor UI fixes
+- Added full screen player
+- Removed "Studio" temporarily for fixes
+
 ## 0.2.12
 - Added clickable tribes chips to post cards
 - Fixed title and description spacing

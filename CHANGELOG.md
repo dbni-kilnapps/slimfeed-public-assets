@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.2.15
+- Implemented landscape layout
+
 ## 0.2.14
 - Added minor UI fixes
 - Added full screen player

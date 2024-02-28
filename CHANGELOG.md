@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 0.2.16
 - Added detection for unwanted images/videos
 - Added banning and blocking users
+- Fixed cart dismissible showing wrong icon
 
 ## 0.2.15
 - Implemented landscape layout

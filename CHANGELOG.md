@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 0.2.17
 - Adjusted unwanted content threshold
 - Fixed ability to send image only messages
+- Fixes message page not showing the lastest messages
 
 ## 0.2.16
 - Added detection for unwanted images/videos

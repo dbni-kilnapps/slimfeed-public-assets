@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.2.18
+- Re-added user list
+- Removed feed dropdown (temporarily)
+- Changed routing system
+
 ## 0.2.17
 - Adjusted unwanted content threshold
 - Fixed ability to send image only messages

@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 - Re-added user list
 - Removed feed dropdown (temporarily)
 - Changed routing system
+- Fixed landscape layout
 
 ## 0.2.17
 - Adjusted unwanted content threshold

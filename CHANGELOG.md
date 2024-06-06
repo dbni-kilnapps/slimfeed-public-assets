@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## 0.3.0
+## 0.3.0a
 - Experimenting with new UI
   
 ## 0.2.18

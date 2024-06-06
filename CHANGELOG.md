@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.3.0
+- Experimenting with new UI
+  
 ## 0.2.18
 - Re-added user list
 - Removed feed dropdown (temporarily)

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.3.2.
+- Updates to new UI
+- Added post deletion
+- Updated how user data is fetched for posts
+- Removed story circles
+
 ## 0.3.0a
 - Experimenting with new UI
   

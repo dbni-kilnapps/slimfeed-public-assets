@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
-## 0.3.2.
+## 1.0.1
+- Added user deletion
+- Broke notifications handling
+
+## 1.0.0
+- App Store release
+
+## 0.3.2
 - Updates to new UI
 - Added post deletion
 - Updated how user data is fetched for posts

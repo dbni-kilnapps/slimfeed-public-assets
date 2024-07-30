@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file.
 ## 1.0.1
 - Fixed user deletion
 - Broke notifications handling
+- Broke deep linking from web
+- Implemented routing
 
 ## 1.0.0
 - App Store release

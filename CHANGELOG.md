@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 1.0.1
 - Added password resetting
+- Got some deep linking working
 
 ## 1.0.1
 - Fixed user deletion

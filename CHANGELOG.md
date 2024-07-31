@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.2
+- Fixed landscape mode issues
+
 ## 1.0.1
 - Added password resetting
 - Got some deep linking working

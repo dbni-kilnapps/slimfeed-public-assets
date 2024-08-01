@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 1.0.3a
 - Fixed post reporting
+- Bandaided navigation for release since it broke for no reason
 
 ## 1.0.3
 - Fixed landscape mode issues

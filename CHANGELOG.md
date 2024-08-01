@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.3a
+- Fixed post reporting
+
 ## 1.0.3
 - Fixed landscape mode issues
 - Fixed fullscreen video player

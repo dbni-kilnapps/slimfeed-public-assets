@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.4
+- Fixed fullscreen player aspect ratio (added comments section)
+
 ## 1.0.3a
 - Fixed post reporting
 - Bandaided navigation for release since it broke for no reason

@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 - Fixed fullscreen player aspect ratio (added comments section)
 - Added history
 - Fixed activity page
+- Disabled notifications on to yourself
 
 ## 1.0.3a
 - Fixed post reporting

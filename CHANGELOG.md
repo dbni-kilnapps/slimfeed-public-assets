@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.6
+- Added app statuses
+
 ## 1.0.5
 - Fixed like/dislike buttons not updating
 

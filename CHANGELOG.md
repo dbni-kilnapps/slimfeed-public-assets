@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.7
+- Updated direct messages system
+- Fixed user avatars not going to the right storage bin
+
 ## 1.0.6
 - Added app statuses
 

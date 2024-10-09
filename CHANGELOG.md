@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+This app will no longer be updated due to the loss of project files
 
-## 1.0.8
+## 1.0.8 (Final)
 - Finally fixed messages
 - Fixed clipping on post page cards
 - Fixed quirks on sign up page

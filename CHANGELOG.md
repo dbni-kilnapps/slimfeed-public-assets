@@ -4,6 +4,7 @@
 _"Never back down never what?" - NickEh30_
 - Refactored Codebase
 - Added light and dark themes
+- Restored swipe-to-scroll
 
 ## 1.0.8 
 - Finally fixed messages

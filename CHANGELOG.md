@@ -1,8 +1,11 @@
 # Changelog
 
-This app will no longer be updated due to the loss of project files
+## 2.0.0
+_"Never back down never what?" - NickEh30_
+- Refactored Codebase
+- Added light and dark themes
 
-## 1.0.8 (Final)
+## 1.0.8 
 - Finally fixed messages
 - Fixed clipping on post page cards
 - Fixed quirks on sign up page
